@@ -1,6 +1,7 @@
-/asnames.txt
-/rib.txt
-/rib.bz2
-/rib6.txt
-/rib6.bz2
-/result
+asnames.txt
+autnums.html
+rib.*
+rib6.*
+rib-*
+result/
+*.bin
